@@ -9,6 +9,8 @@ A huge thanks goes out to **infinest** for creating these patches. They were ori
 
 You will need IPS patching software, the IPS patch for your chosen game and the specific ROM revision for the patch. Once the IPS patch is applied you need to change the file extension from `.gb` to `.pocket` and place them in a `GB Studio` folder on the root of your microSD card.
 
+Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
+
 ## Super Mario Bros. Deluxe
 
 Requires the USA/Europe Rev 1.1 ROM

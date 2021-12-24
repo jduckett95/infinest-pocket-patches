@@ -11,6 +11,14 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## Pokémon Pinball
+
+Requires the USA/Australia Version 1.0 ROM
+
+MD5: `fbe20570c2e52c937a9395024069ba3c`
+
+You can [download the Analogue Pocket IPS patch here]().
+
 ## Super Mario Bros. Deluxe
 
 Requires the USA/Europe Rev 1.1 ROM

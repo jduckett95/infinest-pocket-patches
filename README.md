@@ -33,4 +33,4 @@ Requires the USA/Europe ROM
 
 MD5: `B7598A51E0ACC0D74CA8F464826371ED`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Wario%20Land%20II%20Analogue%20Pocket%20patch.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Wario%20Land%20II%20Analogue%20Pocket%20patch%201.1.ips).

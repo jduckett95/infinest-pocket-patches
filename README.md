@@ -17,7 +17,7 @@ Requires the USA/Australia Version 1.0 ROM
 
 MD5: `fbe20570c2e52c937a9395024069ba3c`
 
-You can [download the Analogue Pocket IPS patch here]().
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips).
 
 ## Super Mario Bros. Deluxe
 

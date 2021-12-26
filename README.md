@@ -19,6 +19,14 @@ MD5: `fbe20570c2e52c937a9395024069ba3c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips).
 
+## Pokémon Puzzle Challenge
+
+Requires the European ROM
+
+MD5: `C7A879BEFD45BBC5CDAB7413D86FFF76`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch.ips).
+
 ## Super Mario Bros. Deluxe
 
 Requires the USA/Europe Rev 1.1 ROM

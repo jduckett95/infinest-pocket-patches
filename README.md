@@ -41,7 +41,7 @@ Requires the World Rev 1 ROM
 
 MD5: `B259FEB41811C7E4E1DC200167985C84`
 
-You can [download the Analogue Pocket IPS patch here]().
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%20Analogue%20Pocket%20patch.ips).
 
 ## Wario Land 2
 

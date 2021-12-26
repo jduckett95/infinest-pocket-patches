@@ -35,6 +35,14 @@ MD5: `1FD75C2B798C04ACD4B99AD2F1006280`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/SMB_Deluxe_Analogue_Pocket.ips).
 
+## Super Mario Land
+
+Requires the World Rev 1 ROM
+
+MD5: `B259FEB41811C7E4E1DC200167985C84`
+
+You can [download the Analogue Pocket IPS patch here]().
+
 ## Wario Land 2
 
 Requires the USA/Europe ROM

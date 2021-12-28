@@ -11,6 +11,14 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## Lufia - The Legend Returns
+
+Requires the European En, De ROM
+
+MD5: `1FF9B71A347A7DEED87BCEDEB7C5EA70`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Lufia%20Analogue%20Pocket%20patch.ips).
+
 ## Pokémon Pinball
 
 Requires the USA/Australia Version 1.0 ROM

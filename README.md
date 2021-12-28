@@ -63,7 +63,7 @@ Credits
 
 * Analogue Pocket Patch: `infinest`
 * Super Mario Land 2 DX ROM Hack: `toruzz`
-* Consolidation Work: `jpduckett95`
+* Consolidation Work: `jimmyduckegg`
 
 ## Wario Land 2
 

@@ -43,6 +43,28 @@ MD5: `B259FEB41811C7E4E1DC200167985C84`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%20Analogue%20Pocket%20patch.ips).
 
+## Super Mario Land 2: 6 Golden Coins
+
+Requires the USA/Europe Rev 0 ROM
+
+MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%202%20Analogue%20Pocket%20patch.ips).
+
+### Super Mario Land 2 DX ROM Hack
+
+This patch adds the incredible [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/) ROM hack to the game **and** converts it for use on Analogue Pocket.
+
+MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/SML2%20DX%20Pocket%20Patch.ips).
+
+Credits
+
+* Analogue Pocket Patch: `infinest`
+* Super Mario Land 2 DX ROM Hack: `toruzz`
+* Consolidation Work: `jpduckett95`
+
 ## Wario Land 2
 
 Requires the USA/Europe ROM

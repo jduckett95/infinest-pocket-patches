@@ -11,6 +11,22 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## The Legend of Zelda: Oracle of Ages
+
+Requires the USA/Australia ROM.
+
+MD5: `C4639CC61C049E5A085526BB6CAC03BB`
+
+You can [download the Analogue Pocket IPS patch here]().
+
+## The Legend of Zelda: Oracle of Seasons
+
+Requires the USA/Australia ROM.
+
+MD5: `F2DC6C4E093E4F8C6CBEA80E8DBD62CB`
+
+You can [download the Analogue Pocket IPS patch here]().
+
 ## Lufia - The Legend Returns
 
 Requires the European En, De ROM

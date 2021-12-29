@@ -17,7 +17,7 @@ Requires the USA/Australia ROM.
 
 MD5: `C4639CC61C049E5A085526BB6CAC03BB`
 
-You can [download the Analogue Pocket IPS patch here]().
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20Analogue%20Pocket%20patch.ips).
 
 ## The Legend of Zelda: Oracle of Seasons
 
@@ -25,7 +25,7 @@ Requires the USA/Australia ROM.
 
 MD5: `F2DC6C4E093E4F8C6CBEA80E8DBD62CB`
 
-You can [download the Analogue Pocket IPS patch here]().
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20Analogue%20Pocket%20patch.ips).
 
 ## Lufia - The Legend Returns
 

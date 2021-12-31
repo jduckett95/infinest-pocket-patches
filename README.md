@@ -11,6 +11,14 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
+## Donkey Kong Country
+
+Requires the USA/Europe ROM.
+
+MD5: `dc94079146ee90d7dd7d72280a3faad5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Donkey%20Kong%20Country%20Analogue%20Pocket%20patch.ips).
+
 ## The Legend of Zelda: Oracle of Ages
 
 Requires the USA/Australia ROM.

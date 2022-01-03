@@ -91,13 +91,9 @@ MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%202%20Analogue%20Pocket%20patch.ips).
 
-Please note this game will not save.
-
 ### Super Mario Land 2 DX ROM Hack
 
 This patch adds the incredible [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/) ROM hack to the game **and** converts it for use on Analogue Pocket.
-
-This version will save.
 
 MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
 

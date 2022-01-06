@@ -19,7 +19,7 @@ MD5: `dc94079146ee90d7dd7d72280a3faad5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Donkey%20Kong%20Country%20Analogue%20Pocket%20patch.ips).
 
-## Kirby: Tilt n Tumble
+## Kirby Tilt n Tumble
 
 Requires the USA ROM.
 

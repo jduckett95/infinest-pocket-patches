@@ -11,7 +11,27 @@ You will need IPS patching software, the IPS patch for your chosen game and the 
 
 Please note that link cable functionality and the real-time clock are not supported in GB Studio mode.
 
-## Donkey Kong Country
+## Contents
+
+Game | System 
+--- | --- 
+[Donkey Kong Country](#donkey-kong-country) | GBC
+[Kirby Tilt 'n' Tumble](#kirby-tilt-n-tumble) | GBC
+[The Legend of Zelda: Oracle of Ages](#the-legend-of-zelda-oracle-of-ages) | GBC
+[The Legend of Zelda: Oracle of Seasons](#the-legend-of-zelda-oracle-of-seasons) | GBC
+[Lufia - The Legend Returns](#lufia---the-legend-returns) | GBC
+[Pokémon Pinball](#pokémon-pinball) | GBC
+[Pokémon Puzzle Challenge](#pokémon-puzzle-challenge) | GBC
+[Stranded Kids](#stranded-kids) | GBC
+[Super Mario Bros. Deluxe](#super-mario-bros-deluxe) | GBC
+[Super Mario Land](#super-mario-land) | GB
+[Super Mario Land 2: 6 Golden Coins](#super-mario-land-2-6-golden-coins) | GB
+[Super Mario Land 2 DX ROM Hack](#super-mario-land-2-dx-rom-hack) | GBC
+[Wario Land 2](#wario-land-2) | GBC
+
+## Patches
+
+### Donkey Kong Country
 
 Requires the USA/Europe ROM.
 
@@ -19,7 +39,7 @@ MD5: `dc94079146ee90d7dd7d72280a3faad5`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Donkey%20Kong%20Country%20Analogue%20Pocket%20patch.ips).
 
-## Kirby Tilt n Tumble
+### Kirby Tilt n Tumble
 
 Requires the USA ROM.
 
@@ -40,7 +60,7 @@ MD5: `F2E24776D93082362C9B435ABC167D89`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Kirby%20-%20Tilt%20'n'%20Tumble%20accelerometer%20removal%20%26%20Analogue%20pocket%20patch.ips).
 
-## The Legend of Zelda: Oracle of Ages
+### The Legend of Zelda: Oracle of Ages
 
 Requires the USA/Australia ROM.
 
@@ -48,7 +68,7 @@ MD5: `C4639CC61C049E5A085526BB6CAC03BB`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20Analogue%20Pocket%20patch%20v1.1.ips).
 
-## The Legend of Zelda: Oracle of Seasons
+### The Legend of Zelda: Oracle of Seasons
 
 Requires the USA/Australia ROM.
 
@@ -56,7 +76,7 @@ MD5: `F2DC6C4E093E4F8C6CBEA80E8DBD62CB`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20Analogue%20Pocket%20patch%20v1.1.ips).
 
-## Lufia - The Legend Returns
+### Lufia - The Legend Returns
 
 Requires the European En, De ROM
 
@@ -64,7 +84,7 @@ MD5: `1FF9B71A347A7DEED87BCEDEB7C5EA70`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Lufia%20Analogue%20Pocket%20patch.ips).
 
-## Pokémon Pinball
+### Pokémon Pinball
 
 Requires the USA/Australia Version 1.0 ROM
 
@@ -72,7 +92,7 @@ MD5: `fbe20570c2e52c937a9395024069ba3c`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Pinball%20Analogue%20Pocket%20Patch.ips).
 
-## Pokémon Puzzle Challenge
+### Pokémon Puzzle Challenge
 
 Updated 2022-01-06
 
@@ -82,7 +102,7 @@ MD5: `C7A879BEFD45BBC5CDAB7413D86FFF76`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch%201.2.ips).
 
-## Stranded Kids
+### Stranded Kids
 
 Requires the European En,Fr,De ROM
 
@@ -90,7 +110,7 @@ MD5: `326F861A8FB3E21F1E9379E62CFB6BEA`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Stranded%20Kids%20Analogue%20Pocket%20patch.ips).
 
-## Super Mario Bros. Deluxe
+### Super Mario Bros. Deluxe
 
 Requires the USA/Europe Rev 1.1 ROM
 
@@ -98,7 +118,7 @@ MD5: `1FD75C2B798C04ACD4B99AD2F1006280`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/SMB_Deluxe_Analogue_Pocket.ips).
 
-## Super Mario Land
+### Super Mario Land
 
 Requires the World Rev 1 ROM
 
@@ -106,7 +126,7 @@ MD5: `B259FEB41811C7E4E1DC200167985C84`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%20Analogue%20Pocket%20patch.ips).
 
-## Super Mario Land 2: 6 Golden Coins
+### Super Mario Land 2: 6 Golden Coins
 
 Requires the USA/Europe Rev 0 ROM
 
@@ -114,7 +134,7 @@ MD5: `A8413347D5DF8C9D14F97F0330D67BCE`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Super%20Mario%20Land%202%20Analogue%20Pocket%20patch.ips).
 
-### Super Mario Land 2 DX ROM Hack
+#### Super Mario Land 2 DX ROM Hack
 
 This patch adds the incredible [Super Mario Land 2 DX](https://www.romhacking.net/hacks/3784/) ROM hack to the game **and** converts it for use on Analogue Pocket.
 
@@ -128,7 +148,7 @@ Credits
 * Super Mario Land 2 DX ROM Hack: `toruzz`
 * Consolidation Work: `jimmyduckegg`
 
-## Wario Land 2
+### Wario Land 2
 
 Requires the USA/Europe ROM
 

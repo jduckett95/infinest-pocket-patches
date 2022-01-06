@@ -74,11 +74,13 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ## Pokémon Puzzle Challenge
 
+Updated 2022-01-06
+
 Requires the European ROM
 
 MD5: `C7A879BEFD45BBC5CDAB7413D86FFF76`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch%201.1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Pokemon%20Puzzle%20Challenge%20Analogue%20Pocket%20patch%201.2.ips).
 
 ## Stranded Kids
 

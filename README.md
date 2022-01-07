@@ -20,6 +20,7 @@ Game | System
 [The Legend of Zelda: Oracle of Ages](#the-legend-of-zelda-oracle-of-ages) | GBC
 [The Legend of Zelda: Oracle of Seasons](#the-legend-of-zelda-oracle-of-seasons) | GBC
 [Lufia - The Legend Returns](#lufia---the-legend-returns) | GBC
+[Magical Chase](#magical-chase) | GB
 [Pokémon Pinball](#pokémon-pinball) | GBC
 [Pokémon Puzzle Challenge](#pokémon-puzzle-challenge) | GBC
 [Stranded Kids](#stranded-kids) | GBC
@@ -83,6 +84,14 @@ Requires the European En, De ROM
 MD5: `1FF9B71A347A7DEED87BCEDEB7C5EA70`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Lufia%20Analogue%20Pocket%20patch.ips).
+
+### Magical Chase
+
+Requires the Japanese ROM.
+
+MD5: `F722B68C0F532ED567397A3E53909CCF`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Magical%20Chase%20GB%20Analogue%20Pocket%20patch.ips).
 
 ### Pokémon Pinball
 

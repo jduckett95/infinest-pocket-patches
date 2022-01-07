@@ -20,7 +20,7 @@ Game | System
 [The Legend of Zelda: Oracle of Ages](#the-legend-of-zelda-oracle-of-ages) | GBC
 [The Legend of Zelda: Oracle of Seasons](#the-legend-of-zelda-oracle-of-seasons) | GBC
 [Lufia - The Legend Returns](#lufia---the-legend-returns) | GBC
-[Magical Chase](#magical-chase) | GB
+[Magical Chase GB](#magical-chase) | GBC
 [Pokémon Pinball](#pokémon-pinball) | GBC
 [Pokémon Puzzle Challenge](#pokémon-puzzle-challenge) | GBC
 [Stranded Kids](#stranded-kids) | GBC

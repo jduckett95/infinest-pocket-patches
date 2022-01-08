@@ -37,7 +37,7 @@ Game | System
 
 Requires the Japanese ROM.
 
-MD5: `dc94079146ee90d7dd7d72280a3faad5`
+MD5: `A74AA804A3A6439303583E6C0B413B00`
 
 You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Chikyuu%20Kaihou%20Gun%20ZAS%20Analogue%20Pocket%20patch.ips).
 

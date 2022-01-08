@@ -15,6 +15,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 Game | System 
 --- | --- 
+[Chikyuu Kaihou Gun ZAS](#chikyuu-kaihou-gun-zas) | GB
 [Donkey Kong Country](#donkey-kong-country) | GBC
 [Kirby Tilt 'n' Tumble](#kirby-tilt-n-tumble) | GBC
 [The Legend of Zelda: Oracle of Ages](#the-legend-of-zelda-oracle-of-ages) | GBC
@@ -31,6 +32,14 @@ Game | System
 [Wario Land 2](#wario-land-2) | GBC
 
 ## Patches
+
+### Chikyuu Kaihou Gun ZAS
+
+Requires the Japanese ROM.
+
+MD5: `dc94079146ee90d7dd7d72280a3faad5`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Chikyuu%20Kaihou%20Gun%20ZAS%20Analogue%20Pocket%20patch.ips).
 
 ### Donkey Kong Country
 

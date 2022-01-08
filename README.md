@@ -72,19 +72,23 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ### The Legend of Zelda: Oracle of Ages
 
+Updated 2022-01-08
+
 Requires the USA/Australia ROM.
 
 MD5: `C4639CC61C049E5A085526BB6CAC03BB`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20Analogue%20Pocket%20patch%20v1.1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Ages%20Analogue%20Pocket%20patch%20v1.2.ips).
 
 ### The Legend of Zelda: Oracle of Seasons
+
+Updated 2022-01-08
 
 Requires the USA/Australia ROM.
 
 MD5: `F2DC6C4E093E4F8C6CBEA80E8DBD62CB`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend%20of%20Zelda%2C%20The%20-%20Oracle%20of%20Seasons%20Analogue%20Pocket%20patch%20v1.1.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Legend_of_Zelda_The_-_Oracle_of_Seasons_Analogue_Pocket_patch_v1.2.ips).
 
 ### Lufia - The Legend Returns
 

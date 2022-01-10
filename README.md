@@ -34,7 +34,7 @@ Game | System
 
 ## Patches
 
-### Avenging Spirit
+### Avenging Spirit
 
 Requires the USA/Europe ROM.
 

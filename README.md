@@ -15,6 +15,7 @@ Please note that link cable functionality and the real-time clock are not suppor
 
 Game | System 
 --- | --- 
+[Avenging Spirit](#avenging-spirit) | GB
 [Chikyuu Kaihou Gun ZAS](#chikyuu-kaihou-gun-zas) | GB
 [Donkey Kong Country](#donkey-kong-country) | GBC
 [Kirby Tilt 'n' Tumble](#kirby-tilt-n-tumble) | GBC
@@ -32,6 +33,14 @@ Game | System
 [Wario Land 2](#wario-land-2) | GBC
 
 ## Patches
+
+### Avenging Spirit
+
+Requires the USA/Europe ROM.
+
+MD5: `E88EAB57AB4614966748280BF3C97F52`
+
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Avenging%20Spirit%20Analogue%20Pocket%20patch.ips).
 
 ### Chikyuu Kaihou Gun ZAS
 

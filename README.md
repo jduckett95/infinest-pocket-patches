@@ -126,6 +126,8 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ### Stranded Kids
 
+Updated 2022-01-10 to fix issue #3
+
 Requires the European En,Fr,De ROM
 
 MD5: `326F861A8FB3E21F1E9379E62CFB6BEA`

@@ -130,7 +130,7 @@ Requires the European En,Fr,De ROM
 
 MD5: `326F861A8FB3E21F1E9379E62CFB6BEA`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Stranded%20Kids%20Analogue%20Pocket%20patch.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/blob/main/Stranded%20Kids%20Analogue%20Pocket%20patch%20v1.1.ips).
 
 ### Super Mario Bros. Deluxe
 

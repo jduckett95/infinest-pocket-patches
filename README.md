@@ -45,11 +45,11 @@ You can [download the Analogue Pocket IPS patch here](https://github.com/jducket
 
 ### Bonk's Revenge
 
-Requires the USA ROM.
+Requires the Europe/USA ROM.
 
 MD5: `B73D76599E3D7F979A99BBA5F1C92ADD`
 
-You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/raw/main/Bonk's%20Revenge%20Analogue%20Pocket%20patch.ips).
+You can [download the Analogue Pocket IPS patch here](https://github.com/jduckett95/infinest-pocket-patches/raw/main/Bonks_Revenge_Analogue_Pocket_patch_v1.1.ips).
 
 ### Chikyuu Kaihou Gun ZAS
 
